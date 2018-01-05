@@ -23,8 +23,8 @@ The flow of this game is managed using Javascript. The main chunks of business l
  - `cd` into that directory and run `npm install`
  - Use `npm start` to start a local webserver which will make the site available at http://127.0.0.1:8080/. Cross origin errors prevent this project from being accessed in the browser with the `file://` protocol. This will also trigger automatic builds and reloads of the page when changes are detected in the `src` directory.
  - If you want to manually cut a build of the application code run `npm run build`
- - If you want to rebuild audio assets use `npm run audio`
- - If you want to rebuild image assets use `npm run images`
+ - If you want to rebuild audio assets use `npm run audio` (nécessite ffmpeg installé et accessible dans le path)
+ - If you want to rebuild image assets use `npm run images` (nécessite TexturePacker installé et accessible dans le path)
 
 ## Bugs
 Please report bugs as [issues](https://github.com/MattSurabian/DuckHunt-JS/issues).
