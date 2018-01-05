@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MattSurabian/DuckHunt-JS.git"
+    "url": "https://github.com/spanska/NantastistiquesHunt.git"
   },
   "keywords": [
     "Duckhunt",
     "Duckhunt-JS",
     "HTML5"
   ],
-  "author": "Matt Surabian",
+  "author": "Les Nantastiques",
   "license": "MIT",
   "devDependencies": {
     "audiosprite": "^0.6.0",
